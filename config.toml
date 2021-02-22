@@ -1,9 +1,9 @@
 # The URL the site will be built for
-base_url = "nathi.blog"
+base_url = "https://nathiblog.netlify.com"
 
 # The site title and description; used in feeds by default.
-title = ""
-description = ""
+title = "My personal blog"
+description = "Read Write"
 
 default_language = "en"
 
@@ -22,3 +22,9 @@ theme = "simple-dev-blog"
 taxonomies = [ { name = "tags"  }  ]
 [extra]
 # Put all your custom variables here
+
+nav = [
+  { name = "About", path = "/about/"  },
+    { name = "Blog", path = "/blog/"  }
+    
+]
