@@ -1,5 +1,11 @@
 # The URL the site will be built for
-base_url = "https://nathi.blog"
+base_url = "nathi.blog"
+
+# The site title and description; used in feeds by default.
+title = ""
+description = ""
+
+default_language = "en"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
