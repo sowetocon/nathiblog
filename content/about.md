@@ -4,7 +4,7 @@ template = "page.html"
 
 ## About me
 
-I am a human being driven by love for others. I believe love is the only thing that can relief us from our daily pains as humans. All the hate, racism, abuse, rape, fights can be cured by love; equal love. We are not perfect. Let us try to be more forgiving and understanding to each other.
+I am a human being driven by love for others. I believe love is the only thing that can relief us from our daily pains as humans. All the hate, racism, abuse, rape, and fights can be cured by love; equal love. We are not perfect. Let us try to be more forgiving and understanding to each other.
 
 Love is the only hope we have if we ought to move on with peace and respect for all. - Nathi Mogomotsi
 
